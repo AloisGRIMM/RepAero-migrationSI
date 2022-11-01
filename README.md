@@ -11,7 +11,7 @@ Ce dépot contient tout les documents, et le code du projet visant à élaborer 
     * FINAL_P7_MAIL_PRESIDENT
     * P7_ARCHITECTURE_CIBLE_CORRECTIONS
     * P7_ARCHITECTURE_EXISTANTE_CORRECTIONS
-  * Livrable
+  * Livrables
     * Analyse de faisabilité
     * Feuille de route
     * Plan d’implémentation
