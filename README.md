@@ -16,3 +16,9 @@ Ce dépot contient tout les documents, et le code du projet visant à élaborer 
     * Feuille de route
     * Plan d’implémentation
     * Présentation 
+
+## Historique
+
+* 03/11/2022
+  * Ajout d'un RACI sur le plant d'implémentation
+  * Ajout des livrables sur la roadmap
